@@ -1,0 +1,11 @@
+#書き込みファイル名   :              Tomlinson150703_101.dat
+#日時                :        2015/07/03 16:47:49
+#格子定数a (nm)　     :          2.46E-10
+#共振周波数f (MHz)　  :           3250000.00
+#質点の質量m(kg)      :          3.10E-13
+#ばね定数K(N/m)       :         3.20E+03
+#粘性定数H(Ns/m)      :         2.5000E-05
+#基板ポテンシャルUo(J):             1.2000E-17
+#基板振幅X (nm)       :         2.0000E-10
+#
+# 1Passtime(s) 2V(V) 3AFM V(V) 4Freq(Hz) 5Amp(V) 6Cos(V) 7Sin(V) 8Sr844X(V) 9Sr844Y(V) 10FFM(V) 11EggY(V) 12RatioTrans
